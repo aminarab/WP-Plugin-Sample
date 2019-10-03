@@ -1,0 +1,5 @@
+Current Version : 1.0.0
+	Installed Themes : 
+	Installed Plugins : child-theme-configurator.2.5.0
+	MySQL : localhost:81 - root - 1234
+	

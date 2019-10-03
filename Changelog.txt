@@ -1,0 +1,10 @@
+version-1.0.0
+add location plugin sample
+	 Admin Presentation
+	 Post Presentation
+	 Widget Presentation
+	 Shortcode Presentation
+add shortcode samples
+	HelloWorld
+	GenerateSitemap
+	StyleText	 
